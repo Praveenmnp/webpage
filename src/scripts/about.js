@@ -4,11 +4,10 @@ const Abouthtml = () => {
     return (
         <center>
             <div class="about-us" id="startchange">
-                <a name="about" href="#about" style={{display: 'none' }}>about</a>
                 <div class="container-fluid">
                 <div class="row text-center">
                     <div class="descript col-xs-12 col-sm-12 col-md-12">
-                        <h1>ABOUT KOVILPATTI</h1>
+                        <a name="about" href="#k"><h1>ABOUT KOVILPATTI</h1></a>
                     <p class="about-us-p">
                         <font face="Arial" size="5%" color="#e6e6e6">
                                 Kovilpatti is located at 9.17°N 77.87°E. It has an average elevation of 106 metres (347 feet).
