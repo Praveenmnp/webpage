@@ -4,7 +4,7 @@ const Abouthtml = () => {
     return (
         <center>
             <div class="about-us" id="startchange">
-                <a name="about"></a>
+                <a name="about" href="#about" style={{display: 'none' }}>about</a>
                 <div class="container-fluid">
                 <div class="row text-center">
                     <div class="descript col-xs-12 col-sm-12 col-md-12">
