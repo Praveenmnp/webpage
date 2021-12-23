@@ -35,17 +35,17 @@ function Queenbee() {
             <font face="Comic sans MS" size=" 3" color="#e6e6e6">DEC 26 @Ester Mahal Kovilpatti</font><br />
             <font face="Comic sans MS" size=" 2" color="#e6e6e6">[9AM to 6PM]</font><br /><br/><br/>
                 <AliceCarousel autoPlay autoPlayInterval="3000">
-                    <img src='https://i.ibb.co/f1fcPrk/bee1.jpg' className="sliderimg"/>
-                    <img src='https://i.ibb.co/qFD58gH/bee2.jpg' className="sliderimg"/>
-                    <img src='https://i.ibb.co/hV34wJg/bee3.jpg' className="sliderimg"/>
-                    <img src='https://i.ibb.co/z2RDQxM/bee4.jpg' className="sliderimg"/>
-                    <img src='https://i.ibb.co/HBq9Bbg/bee5.jpg' className="sliderimg"/>
-                    <img src='https://i.ibb.co/7vQn08g/Whats-App-Image-2021-12-19-at-4-56-51-PM.jpg' className="sliderimg"/>
-                    <img src='https://i.ibb.co/X7yL73L/Whats-App-Image-2021-12-19-at-4-56-52-PM-1.jpg' className="sliderimg"/>
-                    <img src='https://i.ibb.co/bKJgjy8/Whats-App-Image-2021-12-19-at-4-56-53-PM-1.jpg' className="sliderimg"/>
-                    <img src='https://i.ibb.co/Yc09KB5/Whats-App-Image-2021-12-19-at-4-56-53-PM.jpg' className="sliderimg"/>
-                    <img src='https://i.ibb.co/7pknLqD/Whats-App-Image-2021-12-19-at-4-56-54-PM-1.jpg' className="sliderimg"/>
-                    <img src='https://i.ibb.co/L6D3f1H/Whats-App-Image-2021-12-19-at-4-56-54-PM.jpg' className="sliderimg"/>
+                    <img src='https://i.ibb.co/f1fcPrk/bee1.jpg' alt='Failed' className="sliderimg"/>
+                    <img src='https://i.ibb.co/qFD58gH/bee2.jpg' alt='Failed'className="sliderimg"/>
+                    <img src='https://i.ibb.co/hV34wJg/bee3.jpg' alt='Failed'className="sliderimg"/>
+                    <img src='https://i.ibb.co/z2RDQxM/bee4.jpg' alt='Failed'className="sliderimg"/>
+                    <img src='https://i.ibb.co/HBq9Bbg/bee5.jpg' alt='Failed'className="sliderimg"/>
+                    <img src='https://i.ibb.co/7vQn08g/Whats-App-Image-2021-12-19-at-4-56-51-PM.jpg' alt='Failed'className="sliderimg"/>
+                    <img src='https://i.ibb.co/X7yL73L/Whats-App-Image-2021-12-19-at-4-56-52-PM-1.jpg'alt='Failed' className="sliderimg"/>
+                    <img src='https://i.ibb.co/bKJgjy8/Whats-App-Image-2021-12-19-at-4-56-53-PM-1.jpg'alt='Failed' className="sliderimg"/>
+                    <img src='https://i.ibb.co/Yc09KB5/Whats-App-Image-2021-12-19-at-4-56-53-PM.jpg'alt='Failed' className="sliderimg"/>
+                    <img src='https://i.ibb.co/7pknLqD/Whats-App-Image-2021-12-19-at-4-56-54-PM-1.jpg'alt='Failed' className="sliderimg"/>
+                    <img src='https://i.ibb.co/L6D3f1H/Whats-App-Image-2021-12-19-at-4-56-54-PM.jpg' alt='Failed'className="sliderimg"/>
                 </AliceCarousel>
 
             </center>
