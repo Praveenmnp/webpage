@@ -1,7 +1,7 @@
 import './App.css';
-import Home from './scripts/Home';
-import About from './scripts/about';
-import Footer from './scripts/footer';
+import Home from './scripts/Home/Home';
+import About from './scripts/About/about';
+import Footer from './scripts/Footer/footer';
 function App() {
   return (
     <div style={{backgroundColor:"#282d32"}}>
