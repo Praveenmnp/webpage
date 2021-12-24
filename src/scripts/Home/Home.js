@@ -1,7 +1,6 @@
 import './../Css/home.css';
 import React from 'react';
 import Queenbee from '../Queenbee/Queenbee';
-import under_construction from '../Img/under_construction.png';
 const myHTML = `<div class="headerout">
 <a name="home" class="logo">KOVILPATTI CITY</a>
 <div class="header-right">
@@ -14,7 +13,7 @@ const myHTML = `<div class="headerout">
 const Homeimg = () => {
     return (<div>
                 <center>
-                <img class="comingsoon" src={under_construction} alt="Under Construction"></img>
+                <img class="comingsoon" src="https://i.ibb.co/thRxMyh/logo.png" alt="Under Construction"></img>
                 </center>
             </div>);
   };

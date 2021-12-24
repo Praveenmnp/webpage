@@ -33,7 +33,7 @@ function Queenbee() {
             <center>
             <font face="Comic sans MS" size=" 6" color="#e6e6e6">Daddy's Queen Bee</font><br />
             <font face="Comic sans MS" size=" 3" color="#e6e6e6">DEC 26 @Ester Mahal Kovilpatti</font><br />
-            <font face="Comic sans MS" size=" 2" color="#e6e6e6">[9AM to 6PM]</font><br /><br/><br/>
+            <font face="Comic sans MS" size=" 2" color="#e6e6e6">[9AM to 8PM]</font><br /><br/><br/>
                 <AliceCarousel autoPlay autoPlayInterval="3000">
                     <img src='https://i.ibb.co/f1fcPrk/bee1.jpg' alt='Failed' className="sliderimg"/>
                     <img src='https://i.ibb.co/qFD58gH/bee2.jpg' alt='Failed'className="sliderimg"/>
